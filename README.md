@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Eu sou a Dafne
 
-<!--
-**dafnemeloconegoramiro01-sys/dafnemeloconegoramiro01-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 2 ano do ensino medio atualmente cursando desenvolvimento de sistema desde o ano passado Atualmente aprendendo e aprimorando meus conhecimentos em programação e tecnologia.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de sistemas, criação de projetos e novas tecnologias. Gosto de aprender na prática, desenvolver minhas habilidades e transformar ideias em projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias que estou estudando
+
+HTML & CSS C# Git & GitHub
+
+Atualmente
+
+Estudando Desenvolvimento de Sistemas Criando projetos para praticar programação Sempre buscando aprender algo novo
